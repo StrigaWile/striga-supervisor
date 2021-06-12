@@ -1,0 +1,30 @@
+{
+"OwnerPerms": ["", "", ""],
+"HighStaffPerms": ["", "", ""],
+"LowStaffPerms": ["", "", ""],
+
+"KayıtYetkilisi": [""],
+"BanYetkilisi": [""],
+"JailYetkilisi": [""],
+"MuteYetkilisi": [""],
+"VoiceMuteYetkilisi": [""],
+"TaşımaYetkilisi": [""],
+
+"ErkekRol_1": "",
+"ErkekRol_2": "",
+"KadınRol_1": "",
+"KadınRol_2": "",
+"KayıtsızRolü": "",
+
+"BoosterRolü": "",
+"TagRolü": "",
+"VipRolü": "",
+"SponsorRolü": "",
+"MüzisyenRolü": "",
+
+"JailRolü": "",
+"MuteRolü": "",
+"VoiceMuteRolü": "",
+"ŞüpheliRolü": "",
+"YasaklıTagRolü": ""
+}
